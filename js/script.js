@@ -130,10 +130,10 @@ const createContent = async () => {
                                     <input type="text" placeholder="+48 328 4870 09 27" class="popUp__input phone" required />
                                     <div class="popUp__pay">
                                         <div class="pay__maestro">
-                                            <img src="/images/maestro.png">
+                                            <img src="./images/maestro.png">
                                         </div>
                                         <div class="pay__visa">
-                                            <img src="/images/visa.png">
+                                            <img src="./images/visa.png">
                                         </div>
                                     </div>
                                     <input type="submit" value="Buy NFT" class="popUp__btn" 

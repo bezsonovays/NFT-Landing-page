@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "Migra";
-    src: url("/fonts/migra/Migra-Extrabold.ttf") format("truetype");
+    src: url("../fonts/migra/Migra-Extrabold.ttf") format("truetype");
     font-style: normal;
     font-weight: 800;
 }
