@@ -144,12 +144,12 @@ h6 {
 }
 
 .about__block-left {
-    background-image: url("/images/about__block-left.jpg");
+    background-image: url("../images/about__block-left.jpg");
 
 }
 
 .about__block-right {
-    background-image: url("/images/about__block-right.jpg");
+    background-image: url("../images/about__block-right.jpg");
 }
 
 .about__title {
